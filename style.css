@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+   
+    align-items: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 24px;
+    -webkit-border-radius: 24px;
+    -moz-border-radius: 24px;
+    -ms-border-radius: 24px;
+    -o-border-radius: 24px;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.btn{
+    margin: 20px;
+}
+.title{
+    color: aqua;
+}
+.red{
+    background-color: rgb(198, 113, 113);
+}
+.green{
+    background-color: rgb(100, 180, 100);
+}
+.orange{
+    background-color: rgb(235, 191, 110);
+}
+.yellow{
+    background-color: rgb(175, 175, 96);
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: gold;
+}
+.per-info{
+    margin-top: 0;
+}
